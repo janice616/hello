@@ -1,6 +1,6 @@
 /**
  * Author: Janice Shu Lin Chng
- * Date: 2020/08/17
+ * Date: 2020/08/20
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Janice Shu Lin Chng\n");
+  printf("Janice Shu Lin Chng!\n");
   printf("Actuarial Science\n");
   return 0;
 }
